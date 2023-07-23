@@ -1,2 +1,8 @@
-# cse122-Fall2023
-This is an OOP lab RepositorY
+Name:Baidika Acharya
+
+ID:22234103104
+
+Intake:51
+
+section:2
+
