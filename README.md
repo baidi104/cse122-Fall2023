@@ -2,7 +2,7 @@ Name:Baidika Acharya
 
 ID:22234103104
 
-Intake:51
+Intake:50
 
-section:2
+section:3
 
